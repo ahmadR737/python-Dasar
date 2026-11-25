@@ -1,1 +1,1 @@
-print("Hello dari Python!")
+print("hello dari python")
